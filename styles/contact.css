@@ -1,0 +1,17 @@
+
+.kont{
+
+position: static;
+left: 50%;
+top: 50%;
+
+font-family: TT Hoves;
+font-style: normal;
+font-weight: 300;
+font-size: 64px;
+line-height: 64px;
+/* identical to box height, or 100% */
+
+
+color: #BDBDBD;
+}
