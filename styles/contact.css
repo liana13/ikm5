@@ -1,17 +1,121 @@
 
-.kont{
+.kont3{
 
-position: static;
-left: 50%;
-top: 50%;
+position: absolute;
+left: 15%;
+top: 10%;
 
 font-family: TT Hoves;
 font-style: normal;
 font-weight: 300;
-font-size: 64px;
-line-height: 64px;
+font-size: 55px;
+line-height: 78px;
 /* identical to box height, or 100% */
 
 
 color: #BDBDBD;
+}
+
+.qartez{
+position: absolute;
+width: 400px;
+height: 300px;
+left: 60%;
+top: 15%;
+background: url(.png);
+}
+
+
+.inform5{
+position: absolute;
+left: 10%;
+top: 20%;
+
+
+font-family: TT Hoves;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+line-height: 70px;
+/* identical to box height, or 100% */
+
+
+/* Gray 1 */
+
+color: #333333;
+}
+
+.hasce{
+position: absolute;
+left: 15%;
+top: 45%;
+font-family: TT Hoves;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #333333;
+}
+
+.hamar{
+position: absolute;
+left: 20%;
+top: 55%;
+
+font-family: TT Hoves;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+
+color: #333333;
+}
+
+.mail{
+position: absolute;
+left: 20%;
+top: 65%;
+
+font-family: TT Hoves;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #333333;
+}
+
+.div1{
+position: absolute;
+width: 222px;
+height: 50px;
+left: 20%;
+top:75%;
+
+/* Gray 1 */
+
+background: #333333;
+}
+
+.hetkap{
+position: absolute;
+
+left: 5%;
+top: 5%;
+
+
+font-family: TT Hoves;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 12px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.2em;
+text-transform: uppercase;
+
+color: #FFFFFF;
 }
